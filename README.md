@@ -10,7 +10,7 @@ Meu nome é Lucas Duez, sou estudante de Ciência da Computação e <br>aspirant
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lucasdvs10&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucasdvs10&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdvs10&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdvs10&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
 <!--### 🔝 Repositórios que contribuí
 ![](https://github-contributor-stats.vercel.app/api?username=lucasdvs10&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
